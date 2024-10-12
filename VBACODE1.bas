@@ -101,8 +101,8 @@ Sub AnalyzeStockDataForSpecificQuarters()
             End If
         Next i
 
-        ws.Cells(1, 15).Value = "Ticker"
-        ws.Cells(1, 16).Value = "Value"
+        ws.Cells(1, 16).Value = "Ticker"
+        ws.Cells(1, 17).Value = "Value"
 
         ws.Cells(2, 15).Value = "Greatest % Increase"
         ws.Cells(2, 16).Value = increaseTicker
