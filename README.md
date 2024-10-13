@@ -1,6 +1,9 @@
 # VBA-challenge
 # Module 2 - VBA Scripting 
-A simple VBA project to automate stock data analysis across multiple quarters. It calculates quarterly changes, percentage changes, and total volume for each stock, and highlights key stats like the greatest percentage increase, decrease, and the highest total volume.
+A simple VBA project to automate stock data analysis across multiple quarters. 
+It calculates quarterly changes, percentage changes, and total volume for each stock, 
+and highlights key stats like the greatest percentage increase, decrease, 
+and the highest total volume.
 # Features
 Quarterly Analysis: Calculates the stock's change from op;ening to closing proce wach quarter.
 Percentage Change:Computes percentage change for each stock.
